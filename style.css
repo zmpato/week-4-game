@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+    background: rgb(0, 217, 255);
+    color: white;
+    padding: 10px;
+}
+
+#instructions {
+    background: #7400f8;
+    color: red;
+    padding: 20px;
+    font-size: 18px;
+}
+
+#randomScore {
+    background: rgb(248, 112, 0);
+    padding: 30px;
+    color: rgb(238, 255, 0);
+    font-size: 30px;
+}
+
+#winsLosses {
+    background: rgb(243, 2, 2);
+    padding: 10px;
+    font-size: 18px;
+}
+
+#ts {
+    background: rgb(5, 129, 211);
+    padding: 5px;
+    color: white;
+    font-size: 18px;
+}
+
+#yourScore {
+    background: rgb(150, 21, 175);
+    padding: 30px;
+    color: rgb(3, 3, 3);
+    font-size: 30px;
+}
+
+img {
+    padding: 10px;
+}
+
+body {
+	background-color: black
+    ;
+   
+}
+
+#match {
+    background: green;
+    color: purple;
+    font-size: 18px;
+    padding: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 18px;
+}
